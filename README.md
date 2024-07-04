@@ -50,17 +50,26 @@ The main game loop initializes the game board and controls the flow of the game,
 ## Example
 
 Welcome to Tic-Tac-Toe!
+
 player 1 is first
+
 player 1 , please choose X or O: X
+
 Player 1 Please choose a number (1-9): 5
+
 | |
 |X|
 | |
+
 Player 2 Please choose a number (1-9): 1
+
 O| |
 |X|
 | |
+
 ...
 Player 1 won!
+
 Do you want to play again? (Y/N): N
+
 Thanks for playing!
